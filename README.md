@@ -1,3 +1,3 @@
 Here we have used various ML regression models to predict the car prices.
 
-Gradient Boost regressor gives the best prediction
+Random Forest regressor gives the best prediction
